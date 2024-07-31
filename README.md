@@ -12,9 +12,11 @@ If you wish to contact me, feel free here in GitHub or on my LinkedIn :
 Ps, Willing to Relocate
 
 Links to my 
-Portfolio : 
+Email : kevin27saucedo@gmail.com
 
-Resume : 
+Linkedin : https://www.linkedin.com/in/kevinesaucedo/
+
+Resume : https://docs.google.com/document/d/1cok4CKSSel4wO1t1diA-DcHnCdGQVDg14uKzxPpXf50/edit?usp=sharing 
 
 <!--
 **HumanKev/HumanKev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
